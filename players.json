@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "01",
+      "name": "Aaron Ramsdale",
+      "birth_date": "1998-05-14",
+      "Position": "Goalkeeper",
+      "International": "England",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/5/58/Aaron_Ramsdale_2022.jpg"
+    },
+    {
+      "no": "02",
+      "name": "William Saliba",
+      "birth_date": "2001-03-24",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_Saliba_2022.jpg"
+    },
+    {
+      "no": "03",
+      "name": "Gabriel Magalh\u00e3es",
+      "birth_date": "1997-12-19",
+      "Position": "Defender",
+      "International": "Brazil",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gabriel_Magalhaes_2021.jpg"
+    },
+    {
+      "no": "04",
+      "name": "Ben White",
+      "birth_date": "1997-10-08",
+      "Position": "Defender",
+      "International": "England",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ben_White_2022.jpg"
+    },
+    {
+      "no": "05",
+      "name": "Oleksandr Zinchenko",
+      "birth_date": "1996-12-15",
+      "Position": "Defender",
+      "International": "Ukraine",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/8/89/Oleksandr_Zinchenko_2022.jpg"
+    },
+    {
+      "no": "06",
+      "name": "Declan Rice",
+      "birth_date": "1999-01-14",
+      "Position": "Midfielder",
+      "International": "England",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/3/36/Declan_Rice_2022.jpg"
+    },
+    {
+      "no": "07",
+      "name": "Martin \u00d8degaard",
+      "birth_date": "1998-12-17",
+      "Position": "Midfielder",
+      "International": "Norway",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Martin_Odegaard_2022.jpg"
+    },
+    {
+      "no": "08",
+      "name": "Bukayo Saka",
+      "birth_date": "2001-09-05",
+      "Position": "Forward",
+      "International": "England",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bukayo_Saka_2022.jpg"
+    },
+    {
+      "no": "09",
+      "name": "Gabriel Jesus",
+      "birth_date": "1997-04-03",
+      "Position": "Forward",
+      "International": "Brazil",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gabriel_Jesus_2022.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Kai Havertz",
+      "birth_date": "1999-06-11",
+      "Position": "Midfielder",
+      "International": "Germany",
+      "Team": "Arsenal",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kai_Havertz_2023.jpg"
+    }
+  ]
+}
